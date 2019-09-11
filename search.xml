@@ -4,19 +4,84 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2019/09/10/hello-world/"/>
-      <url>/2019/09/10/hello-world/</url>
+      <title>测试一下</title>
+      <link href="/2019/09/10/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
+      <url>/2019/09/10/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
       
       
     </entry>
     
     
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/09/10/hello-world/"/>
+      <url>/2019/09/10/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">"My New Post"</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>程序员修炼之道笔记</title>
+      <link href="/2017/09/11/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93%E7%AC%94%E8%AE%B0/"/>
+      <url>/2017/09/11/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="程序员修炼之道"><a href="#程序员修炼之道" class="headerlink" title="程序员修炼之道"></a>程序员修炼之道</h1><h2 id="提供多种选择，不要找接口"><a href="#提供多种选择，不要找接口" class="headerlink" title="提供多种选择，不要找接口"></a>提供多种选择，不要找接口</h2><p>出了问题后，要提出各种解决方案的选择，而不是找借口；不要说事情做不到，要说明接下来做什么来挽回局面；</p><h2 id="不要容忍破窗户"><a href="#不要容忍破窗户" class="headerlink" title="不要容忍破窗户"></a>不要容忍破窗户</h2><p>我们看到过整洁、运行良好的系统，一旦窗户开始破裂，就相当迅速的恶化；<br>不要留着破窗户不修；发现一个bug就修复一个，如果没有足够的时间进行恰当的修理，就用木板先订起来；或许你可以先把代码注释起来，或是显示“未实现”的消息；采取某种行动防止进一步的损坏，并说明情形在你的控制之下；</p><h2 id="投资知识资产"><a href="#投资知识资产" class="headerlink" title="投资知识资产"></a>投资知识资产</h2><p>我们喜欢把程序员所知道的关于计算机技术和经验视为他们的知识资产；<br>你的资产是有时效的资产，会随着新技术、语言和环境的出现而变得过时；<br>管理知识资产与管理金融资产非常类似：</p><ol><li><p>严肃的投资者定期投资-作为习惯</p></li><li><p>多元化是长期成功的关键</p></li><li><p>管理风险；聪明的投资者在保守的投资和高风险的投资之间平衡他们的资产；</p></li><li><p>应周期性的重新评估和平衡资产</p></li></ol><p>投资建议：<br>每年至少学习一种新语言；<br>每季度至少阅读一本技术书籍；<br>也要阅读非技术书籍；</p><h2 id="多交流，会交流"><a href="#多交流，会交流" class="headerlink" title="多交流，会交流"></a>多交流，会交流</h2><p>与他人交流时，你需要了解你的听众：<br>你想他们学到什么？<br>他们对你讲的什么感兴趣？<br>他们有多富有的经验？<br>他们想要多少细节？<br>你如何促使他们听你说话？</p><p>遇到程序Bug时，不要一味的指责代码编写者；我们需要的是修正问题，而不是发出指责；</p><h2 id="DRY-不要重复你自己"><a href="#DRY-不要重复你自己" class="headerlink" title="DRY -不要重复你自己"></a>DRY -不要重复你自己</h2><p>don’t repeat yourself;<br>系统中的每一项知识都必须具有单一、无歧义、权威的表示；<br>重复的发生地方：<br>开发者没有意识到重复；有时，重复来自于设计中的错误；<br>开发者偷懒、他们重复，因为那样代码似乎更容易修改；<br>开发者之间的重复：同一团队中几个人重复了同样的信息；处理这个问题的最佳方式就是鼓励交流；一定要阅读他人的代码，并进行代码review；</p><p>让复用变得更容易！<br>你需要营造一种环境，在其中找到并复用已有的东西；如果不容易，大家就不会去复用；而如果不复用，就有了重复的风险；</p><h2 id="维持正交性"><a href="#维持正交性" class="headerlink" title="维持正交性"></a>维持正交性</h2><p>正交：两个事物中一个发生变化，对其他无影响，这两个事物就是具有正交性；<br>正交性的好处：</p><ol><li><p>提高生存率；</p></li><li><p>降低风险</p></li></ol><p>让代码维持正交性，可以消除无关事物之间的影响；</p><h2 id="可撤销，可更换"><a href="#可撤销，可更换" class="headerlink" title="可撤销，可更换"></a>可撤销，可更换</h2><p>不存在最终的目标，也没有终极的架构；项目的任何一个模块一个组件都是可撤销，可替换的；不要过度依赖于某个第三方的产品，否则你的项目就被第三方绑架了；<br>通过灵活的架构，将第三方产品隐藏在良好的抽象接口之后；</p><h2 id="无处不在的自动化"><a href="#无处不在的自动化" class="headerlink" title="无处不在的自动化"></a>无处不在的自动化</h2><p>多用python、shell等脚本语言，将工作的重复性任务自动化实现；<br>对于编程中的重复性代码，通过脚本自动生成代码来实现；<br>在工作中多总结，提炼小系统，让流程、代码都自动化；<br>linux下的cron是个好东西，让你的自动化任务都在夜深人静时准时执行；</p><h2 id="不要靠巧合编程"><a href="#不要靠巧合编程" class="headerlink" title="不要靠巧合编程"></a>不要靠巧合编程</h2><p>你所写的代码都是深思熟虑过后的产物，先有设计，然后再产出；想到一处写一处是刚毕业的水平；<br>按照合约编程，别想着这个地方可以增加多少好功能，画蛇添足的故事太多，过多的超过用户期望未必有好的结果，可能就成了用户不想要的；</p><h2 id="测试的重要性"><a href="#测试的重要性" class="headerlink" title="测试的重要性"></a>测试的重要性</h2><p>测试重要，大家都知道；但单元测试，有多少个项目能认真的做过；没有质量高、覆盖好的单元测试，哪来的勇气去重构一个个庞然大物似的老项目？<br>这句话很精辟：测试你的软件，否则用户就得测试；</p><h2 id="新方法和新工具"><a href="#新方法和新工具" class="headerlink" title="新方法和新工具"></a>新方法和新工具</h2><p>有个新工具或新方法想在项目组中推广，这事挺好；但不要低估采用新工具和新方法的代价，可能你的项目需要花上太多精力来熟悉这个方法，而第一个采用这个方法的项目，可能就只能是实验品；<br>批判的看待方法学，从中提炼适用团队的精华；</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 程序员 心得 读书 笔记 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
   
   
+    
+    
+    <entry>
+      <title>img</title>
+      <link href="/img/index.html"/>
+      <url>/img/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>About</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
     
   
 </search>
