@@ -56,18 +56,18 @@
   };
 </script>
 
-  <meta name="description" content="程序优化的5个方向80/20法则：程序执行中，80%的时间消耗在20%的代码上。优化前，我们首先得找到这20%的关键路径；各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof； 参考《C++的性能优化实践》 在关键路径上对耗时的计算进行优化；主要的优化方向为：减少重复计算、预先计算、延后计算、降低计算代价、不计算； 减少重复计算典型的例子如缓存，将之前相同的计算（查数据库">
-<meta name="keywords" content="程序 优化">
+  <meta name="description" content="80/20法则：程序执行中，80%的时间消耗在20%的代码上。优化前，我们首先得找到这20%的关键路径；各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof； 参考《C++的性能优化实践》 在关键路径上对耗时的计算进行优化；主要的优化方向为：减少重复计算、预先计算、延后计算、降低计算代价、不计算；">
+<meta name="keywords" content="程序,优化">
 <meta property="og:type" content="article">
 <meta property="og:title" content="程序优化的5个方向">
 <meta property="og:url" content="http://yoursite.com/2019/09/11/程序优化的5个方向/index.html">
 <meta property="og:site_name" content="Yujun&#39;s Blog">
-<meta property="og:description" content="程序优化的5个方向80/20法则：程序执行中，80%的时间消耗在20%的代码上。优化前，我们首先得找到这20%的关键路径；各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof； 参考《C++的性能优化实践》 在关键路径上对耗时的计算进行优化；主要的优化方向为：减少重复计算、预先计算、延后计算、降低计算代价、不计算； 减少重复计算典型的例子如缓存，将之前相同的计算（查数据库">
+<meta property="og:description" content="80/20法则：程序执行中，80%的时间消耗在20%的代码上。优化前，我们首先得找到这20%的关键路径；各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof； 参考《C++的性能优化实践》 在关键路径上对耗时的计算进行优化；主要的优化方向为：减少重复计算、预先计算、延后计算、降低计算代价、不计算；">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2019-09-11T03:28:57.254Z">
+<meta property="og:updated_time" content="2019-09-11T09:18:01.488Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="程序优化的5个方向">
-<meta name="twitter:description" content="程序优化的5个方向80/20法则：程序执行中，80%的时间消耗在20%的代码上。优化前，我们首先得找到这20%的关键路径；各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof； 参考《C++的性能优化实践》 在关键路径上对耗时的计算进行优化；主要的优化方向为：减少重复计算、预先计算、延后计算、降低计算代价、不计算； 减少重复计算典型的例子如缓存，将之前相同的计算（查数据库">
+<meta name="twitter:description" content="80/20法则：程序执行中，80%的时间消耗在20%的代码上。优化前，我们首先得找到这20%的关键路径；各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof； 参考《C++的性能优化实践》 在关键路径上对耗时的计算进行优化；主要的优化方向为：减少重复计算、预先计算、延后计算、降低计算代价、不计算；">
   <link rel="canonical" href="http://yoursite.com/2019/09/11/程序优化的5个方向/">
 
 
@@ -86,6 +86,15 @@
   
 
 
+  <script>
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?80c95f9bba65f4f77b0b954251bec511";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
 
 
 
@@ -235,7 +244,7 @@
       
     
 
-    <a href="/404/" rel="section"><i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br>公益 404</a>
+    <a href="/404.html" rel="section"><i class="menu-item-icon fa fa-fw fa-heartbeat"></i> <br>公益 404</a>
 
   </li>
   </ul>
@@ -293,12 +302,25 @@
                 
               
 
-              <time title="创建时间：2019-09-11 11:27:56 / 修改时间：11:28:57" itemprop="dateCreated datePublished" datetime="2019-09-11T11:27:56+08:00">2019-09-11</time>
+              <time title="创建时间：2019-09-11 11:27:56 / 修改时间：17:18:01" itemprop="dateCreated datePublished" datetime="2019-09-11T11:27:56+08:00">2019-09-11</time>
             </span>
           
             
 
             
+          
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing"><a href="/categories/性能优化/" itemprop="url" rel="index"><span itemprop="name">性能优化</span></a></span>
+
+                
+                
+              
+            </span>
           
 
           
@@ -312,9 +334,11 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        <h1 id="程序优化的5个方向"><a href="#程序优化的5个方向" class="headerlink" title="程序优化的5个方向"></a>程序优化的5个方向</h1><p><strong>80/20法则：程序执行中，80%的时间消耗在20%的代码上。</strong><br>优化前，我们首先得找到这20%的关键路径；<br>各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof；</p>
+        <p><strong>80/20法则：程序执行中，80%的时间消耗在20%的代码上。</strong><br>优化前，我们首先得找到这20%的关键路径；<br>各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof；</p>
 <p>参考<a href="http://www.cnblogs.com/me115/archive/2013/06/05/3117967.html" target="_blank" rel="noopener">《C++的性能优化实践》</a></p>
 <p>在关键路径上对耗时的计算进行优化；<br>主要的优化方向为：<br>减少重复计算、预先计算、延后计算、降低计算代价、不计算；</p>
+<a id="more"></a>
+
 <h2 id="减少重复计算"><a href="#减少重复计算" class="headerlink" title="减少重复计算"></a>减少重复计算</h2><p>典型的例子如缓存，将之前相同的计算（查数据库，读写文件）存下来，等待下一次继续使用；<br>适用场景：计算结果有有效期，过段时间后需要再次计算；</p>
 <h2 id="预先计算"><a href="#预先计算" class="headerlink" title="预先计算"></a>预先计算</h2><p>对于关键路径中比较耗时的计算，预先计算出来，节省每次计算的成本；</p>
 <p>预先计算出对照表<br>关键路径中需要用到的映射关系对照表，将对照表预先计算，在关键路径中直接取用；</p>
@@ -343,6 +367,29 @@
     
         
       
+        <div id="reward-container">
+  <div></div>
+  <button id="reward-button" disable="enable" onclick="var qr = document.getElementById(&quot;qr&quot;); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    打赏
+  </button>
+  <div id="qr" style="display: none;">
+        
+      
+      <div style="display: inline-block">
+        <img src="/images/pay-wechat.jpeg" alt="俊俊哥 微信支付">
+        <p>微信支付</p>
+      </div>
+        
+      
+      <div style="display: inline-block">
+        <img src="/images/pay-zfb.jpeg" alt="俊俊哥 支付宝">
+        <p>支付宝</p>
+      </div>
+
+  </div>
+</div>
+
+      
 
       <footer class="post-footer">
           
@@ -350,7 +397,9 @@
           
           <div class="post-tags">
             
-              <a href="/tags/程序-优化/" rel="tag"># 程序 优化</a>
+              <a href="/tags/程序/" rel="tag"># 程序</a>
+            
+              <a href="/tags/优化/" rel="tag"># 优化</a>
             
           </div>
         
@@ -360,8 +409,8 @@
           <div class="post-nav">
             <div class="post-nav-next post-nav-item">
               
-                <a href="/2019/09/10/测试一下/" rel="next" title="测试一下">
-                  <i class="fa fa-chevron-left"></i> 测试一下
+                <a href="/2017/09/11/程序员修炼之道笔记/" rel="next" title="程序员修炼之道笔记">
+                  <i class="fa fa-chevron-left"></i> 程序员修炼之道笔记
                 </a>
               
             </div>
@@ -417,7 +466,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#程序优化的5个方向"><span class="nav-number">1.</span> <span class="nav-text">程序优化的5个方向</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#减少重复计算"><span class="nav-number">1.1.</span> <span class="nav-text">减少重复计算</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#预先计算"><span class="nav-number">1.2.</span> <span class="nav-text">预先计算</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#延迟计算"><span class="nav-number">1.3.</span> <span class="nav-text">延迟计算</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#降低计算代价"><span class="nav-number">1.4.</span> <span class="nav-text">降低计算代价</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#不计算"><span class="nav-number">1.5.</span> <span class="nav-text">不计算</span></a></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#减少重复计算"><span class="nav-number">1.</span> <span class="nav-text">减少重复计算</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#预先计算"><span class="nav-number">2.</span> <span class="nav-text">预先计算</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#延迟计算"><span class="nav-number">3.</span> <span class="nav-text">延迟计算</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#降低计算代价"><span class="nav-number">4.</span> <span class="nav-text">降低计算代价</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#不计算"><span class="nav-number">5.</span> <span class="nav-text">不计算</span></a></li></ol></div>
         
       </div>
       <!--/noindex-->
@@ -435,8 +484,21 @@
         
           <a href="/archives/">
         
-          <span class="site-state-item-count">3</span>
+          <span class="site-state-item-count">2</span>
           <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+    
+      
+      
+      <div class="site-state-item site-state-categories">
+        
+          
+            <a href="/categories/">
+          
+        
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">分类</span>
         </a>
       </div>
     
@@ -444,9 +506,13 @@
       
       <div class="site-state-item site-state-tags">
         
-        <span class="site-state-item-count">2</span>
-        <span class="site-state-item-name">标签</span>
+          
+            <a href="/tags/">
+          
         
+        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-name">标签</span>
+        </a>
       </div>
     
   </nav>
@@ -455,8 +521,48 @@
       <i class="fa fa-rss"></i>RSS
     </a>
   </div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+      
+      
+        
+      
+      
+        
+      
+        <a href="/yujun32@163.com" title="E-Mail &rarr; yujun32@163.com"><i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+      </span>
+    
+      <span class="links-of-author-item">
+      
+      
+        
+      
+      
+        
+      
+        <a href="/woqqpop32" title="微信 &rarr; woqqpop32"><i class="fa fa-fw fa-wechat"></i>微信</a>
+      </span>
+    
+  </div>
 
 
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title">
+      <i class="fa fa-fw fa-link"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://yujun32.github.io/" title="https://yujun32.github.io/" rel="noopener" target="_blank">github</a>
+        </li>
+      
+        <li class="links-of-blogroll-item">
+          <a href="https://baidu.com" title="https://baidu.com" rel="noopener" target="_blank">百度</a>
+        </li>
+      
+    </ul>
+  </div>
 
       </div>
 

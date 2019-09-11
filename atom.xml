@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yujun&#39;s Blog</title>
-  
+  <icon>http://yoursite.com/icon.png</icon>
   <subtitle>凡是不能毁灭我的，必使我强大</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-11T03:28:57.254Z</updated>
+  <updated>2019-09-11T09:18:01.488Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,38 +21,23 @@
     <link href="http://yoursite.com/2019/09/11/%E7%A8%8B%E5%BA%8F%E4%BC%98%E5%8C%96%E7%9A%845%E4%B8%AA%E6%96%B9%E5%90%91/"/>
     <id>http://yoursite.com/2019/09/11/程序优化的5个方向/</id>
     <published>2019-09-11T03:27:56.000Z</published>
-    <updated>2019-09-11T03:28:57.254Z</updated>
+    <updated>2019-09-11T09:18:01.488Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;h1 id=&quot;程序优化的5个方向&quot;&gt;&lt;a href=&quot;#程序优化的5个方向&quot; class=&quot;headerlink&quot;
-        
-      
+      &lt;p&gt;&lt;strong&gt;80/20法则：程序执行中，80%的时间消耗在20%的代码上。&lt;/strong&gt;&lt;br&gt;优化前，我们首先得找到这20%的关键路径；&lt;br&gt;各种语言都有专门的工具来找到这20%的关键路径，比如C++经常用到的gprof；&lt;/p&gt;
+&lt;p&gt;参考&lt;a href=&quot;http://www.cnblogs.com/me115/archive/2013/06/05/3117967.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;《C++的性能优化实践》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在关键路径上对耗时的计算进行优化；&lt;br&gt;主要的优化方向为：&lt;br&gt;减少重复计算、预先计算、延后计算、降低计算代价、不计算；&lt;/p&gt;
     
     </summary>
     
     
-    
-      <category term="程序 优化" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F-%E4%BC%98%E5%8C%96/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>测试一下</title>
-    <link href="http://yoursite.com/2019/09/10/%E6%B5%8B%E8%AF%95%E4%B8%80%E4%B8%8B/"/>
-    <id>http://yoursite.com/2019/09/10/测试一下/</id>
-    <published>2019-09-10T09:37:35.000Z</published>
-    <updated>2019-09-10T09:37:35.803Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
+      <category term="性能优化" scheme="http://yoursite.com/categories/%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/"/>
     
     
+      <category term="程序" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="优化" scheme="http://yoursite.com/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
@@ -61,7 +46,7 @@
     <link href="http://yoursite.com/2017/09/11/%E7%A8%8B%E5%BA%8F%E5%91%98%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93%E7%AC%94%E8%AE%B0/"/>
     <id>http://yoursite.com/2017/09/11/程序员修炼之道笔记/</id>
     <published>2017-09-11T02:41:50.000Z</published>
-    <updated>2019-09-11T02:42:58.549Z</updated>
+    <updated>2019-09-11T09:22:23.257Z</updated>
     
     <summary type="html">
     
@@ -69,15 +54,19 @@
       
         
         
-          &lt;h1 id=&quot;程序员修炼之道&quot;&gt;&lt;a href=&quot;#程序员修炼之道&quot; class=&quot;headerlink&quot; title=&quot;程序员修炼之道&quot;&gt;&lt;/a&gt;程序员修炼之道&lt;/h1&gt;&lt;h2 id=&quot;提供多种选择，不要找接口&quot;&gt;&lt;a href=&quot;#提供多种选择，不要找接口&quot;
+          &lt;h2 id=&quot;提供多种选择，不要找接口&quot;&gt;&lt;a href=&quot;#提供多种选择，不要找接口&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
     
+      <category term="人生心得" scheme="http://yoursite.com/categories/%E4%BA%BA%E7%94%9F%E5%BF%83%E5%BE%97/"/>
     
-      <category term="程序员 心得 读书 笔记" scheme="http://yoursite.com/tags/%E7%A8%8B%E5%BA%8F%E5%91%98-%E5%BF%83%E5%BE%97-%E8%AF%BB%E4%B9%A6-%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="读书" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
